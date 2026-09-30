@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SharIST</string>
+    <string name="screen_signup_title">SignUp</string>
+    <string name="screen_main_title">Main Menu</string>
+    <string name="screen_add_ride_title">Add New Ride 1/2</string>
+    <string name="screen_add_ride2_title">Add New Ride 2/2</string>
+    <string name="screen_add_ride_request_title">Add New Ride Request 1/3</string>
+    <string name="screen_map_title">Map</string>
+    <string name="screen_password_title">Change Password</string>
+    <string name="screen_settings_title">User Settings</string>
+    <string name="screen_my_locations_title">My Locations</string>
+    <string name="screen_add_location_title">Add New Location</string>
+    <string name="screen_location_detail_title">My Location</string>
+    <string name="screen_my_vehicles_title">My Vehicles</string>
+    <string name="screen_add_vehicle_title">Add New Vehicle</string>
+    <string name="screen_vehicle_detail_title">My Vehicle</string>
+    <string name="screen_my_rides_title">My Rides</string>
+    <string name="screen_my_rides_requests_title">My Ride Requests</string>
+    <string name="screen_my_scheduled_rides_title">My Scheduled Rides</string>
+</resources>
